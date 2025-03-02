@@ -1,0 +1,5 @@
+We want to develop a compact, wearable ECG monitoring system designed for real-time heart health analysis. The device utilizes a single silver electrode to capture ECG signals, which are processed using an Arduino-based circuit. The raw ECG data is then fed into a pre-trained machine learning model, which has been trained on the MIT-BIH ECG dataset to classify various heart conditions with high accuracy.
+
+Once the data is analyzed, the results are displayed on an interactive web interface, allowing users to easily view their ECG readings and reports. The interface also provides historical data tracking and nearby hospital recommendations for quick medical assistance if needed.
+
+Our goal is to create an accessible, cost-effective, and user-friendly solution for heart monitoring, helping individuals and healthcare professionals detect abnormalities early. This integration of hardware, AI-based diagnostics, and web-based visualization ensures a seamless experience, making continuous heart monitoring more efficient and convenient.
