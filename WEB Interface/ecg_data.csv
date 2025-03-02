@@ -1,0 +1,11 @@
+patient_id,heart_rate,status,risk_level
+001,72,Normal,Low
+002,85,Slight Irregularity,Moderate
+003,110,Arrhythmia,High
+004,95,Elevated Heart Rate,Moderate
+005,60,Bradycardia,Low
+006,130,Tachycardia,High
+007,78,Normal,Low
+008,102,Potential AFib,High
+009,88,Borderline Normal,Moderate
+010,69,Normal,Low
